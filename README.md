@@ -6,6 +6,7 @@
 	
 ###user with id
  GET http://localhost:9091/v1/users/{user_id}
+ 
 ###save user
  POST http://localhost:9091/v1/users/
 
@@ -38,5 +39,7 @@
 #Attributes => Name,Singer,imgSrc,Audiosource
 
 ###GET  http://localhost:9091/v1/tracks
+
 ###POST http://localhost:9091/v1/tracks
+
 ###GET  http://localhost:9091/v1/tracks/{id}
